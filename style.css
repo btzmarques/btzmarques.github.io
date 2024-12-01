@@ -454,3 +454,16 @@ footer p {
 span {
     color: #C71585;
 }
+
+
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  white-space: nowrap;
+}
+
+.btn-color-3:hover {
+  cursor: pointer;
+}
